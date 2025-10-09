@@ -13,5 +13,4 @@ public class Lab3Task3 {
 		}
 		System.out.println("200");
 	}
-
 }
